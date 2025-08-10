@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain-huggingface
+langchain-astradb
+datasets
+pypdf
+python-dotenv
+streamlit
+pandas 
+sentence-transformers
+-e .
